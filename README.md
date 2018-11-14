@@ -10,8 +10,10 @@ The Project
 The goals / steps of this project are the following:
 
 * Compute the camera calibration matrix and distortion coefficients given a set of chessboard images.
-
+<div align='center'>
 <img src="output_images/calibration1_undist.jpg" width="480" alt="calibration1_undistort image" align=center/>
+</div>
+
 
 
 
