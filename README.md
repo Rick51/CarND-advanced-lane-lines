@@ -10,7 +10,10 @@ The Project
 The goals / steps of this project are the following:
 
 * Compute the camera calibration matrix and distortion coefficients given a set of chessboard images.
-![p1](https://github.com/Rick51/CarND-advanced-lane-lines/blob/master/output_images/calibration1_undist.jpg)
+
+<img src="output_images/calibration1_undist.jpg" width="480" alt="Combined Image" />
+
+
 
 * Apply a distortion correction to raw images.
 * Use color transforms, gradients, etc., to create a thresholded binary image.
@@ -31,3 +34,4 @@ If you're feeling ambitious (again, totally optional though), don't stop there! 
 ## How to write a README
 A well written README file can enhance your project and portfolio.  Develop your abilities to create professional README files by completing [this free course](https://www.udacity.com/course/writing-readmes--ud777).
 
+![p1](https://github.com/Rick51/CarND-advanced-lane-lines/blob/master/output_images/calibration1_undist.jpg)
