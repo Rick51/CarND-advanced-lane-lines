@@ -52,15 +52,9 @@ The goals / steps of this project are the following:
 
 * Output visual display of the lane boundaries and numerical estimation of lane curvature and vehicle position.
 
-  <iframe 
-      width="800" 
-      height="450" 
-      src="output_videos/project_video.mp4"
-      frameborder="0" 
-      allowfullscreen>
-  </iframe>
 
-
+<iframe name="music" src="output_videos/project_video.mp4" marginwidth="1px" marginheight="20px" width=20% height="500px" frameborder=1 　scrolling="yes">
+</iframe>
 
 To help the reviewer examine your work, please save examples of the output from each stage of your pipeline in the folder called `output_images`, and include a description in your writeup for the project of what each image shows.    The video called `project_video.mp4` is the video your pipeline should work well on.  
 
