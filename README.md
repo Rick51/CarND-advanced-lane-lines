@@ -52,14 +52,17 @@ The goals / steps of this project are the following:
 
 * Output visual display of the lane boundaries and numerical estimation of lane curvature and vehicle position.
 
+  The final output video could be watched in the path "output_videos/project_video.mp4". (if below code doesnt work well)
 
-<iframe name="music" src="output_videos/project_video.mp4" marginwidth="1px" marginheight="20px" width=20% height="500px" frameborder=1 　scrolling="yes">
-</iframe>
+  <iframe
+          width="800"
+          height="450"
+          src="output_videos/project_video.mp4"
+          frameborder="0"
+          allowfullscreen>
+  </iframe>
 
-To help the reviewer examine your work, please save examples of the output from each stage of your pipeline in the folder called `output_images`, and include a description in your writeup for the project of what each image shows.    The video called `project_video.mp4` is the video your pipeline should work well on.  
 
-The `challenge_video.mp4` video is an extra (and optional) challenge for you if you want to test your pipeline under somewhat trickier conditions.  The `harder_challenge.mp4` video is another optional challenge and is brutal!
 
-If you're feeling ambitious (again, totally optional though), don't stop there!  We encourage you to go out and take video of your own, calibrate your camera and show us how you would implement this project from scratch!
 
 
